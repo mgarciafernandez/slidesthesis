@@ -1,4 +1,4 @@
-\beamer@endinputifotherversion {3.34pt}
+\beamer@endinputifotherversion {3.24pt}
 \headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
 \headcommand {\beamer@framepages {1}{1}}
 \headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
@@ -125,8 +125,10 @@
 \headcommand {\beamer@framepages {62}{62}}
 \headcommand {\slideentry {0}{0}{63}{63/63}{}{0}}
 \headcommand {\beamer@framepages {63}{63}}
-\headcommand {\beamer@partpages {1}{63}}
-\headcommand {\beamer@subsectionpages {1}{63}}
-\headcommand {\beamer@sectionpages {1}{63}}
-\headcommand {\beamer@documentpages {63}}
-\headcommand {\def \inserttotalframenumber {63}}
+\headcommand {\slideentry {0}{0}{64}{64/64}{}{0}}
+\headcommand {\beamer@framepages {64}{64}}
+\headcommand {\beamer@partpages {1}{64}}
+\headcommand {\beamer@subsectionpages {1}{64}}
+\headcommand {\beamer@sectionpages {1}{64}}
+\headcommand {\beamer@documentpages {64}}
+\headcommand {\def \inserttotalframenumber {64}}
